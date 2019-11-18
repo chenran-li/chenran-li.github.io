@@ -47,6 +47,11 @@
 
 + Be in charge of 2018 ASRTU Sino-Russian Micro/Nanosat Student camp’s Sino-Russian astronaut dialogue lecture delivered by Russian astronaut Pavel Vinogradov and Chinese astronaut Liu Boming with nearly 50 reporters and 150 Sino-Russian students involved.
 
+<div style="text-align: center;">
+ <img src="https://raw.githubusercontent.com/chenran-li/chenran-li.github.io/master/Image/ASRTU1.jpg" alt="HICA" title="HICA" width="320" height="200"  />
+  <img src="https://raw.githubusercontent.com/chenran-li/chenran-li.github.io/master/Image/ASRTU.jpeg" alt="HICA" title="HICA" width="260" height="200"  />
+</div>
+
 + Be in charge of 2018 HIT International Week, a one-week festival with 10 lectures, 3 big activities and 180 meters long display board surrounding two campus. Attracted more than 3000 participants. 
 
  <div style="text-align: center;">
