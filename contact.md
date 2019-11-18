@@ -4,9 +4,9 @@
 # Contact Me
 
 ### Email：
-chenran_li@berkeley.edu
+[chenran_li@berkeley.edu](mailto:chenran_li@berkeley.edu)
 
-chenran_li@qq.com
+[chenran_li@qq.com](mailto:chenran_li@qq.com)
 ### Phone:  
 +1510-409-2088 (US) 
 

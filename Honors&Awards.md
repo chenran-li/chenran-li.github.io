@@ -1,7 +1,7 @@
 ---
 ---
 
-# Professional Experience
+# Honors & Awards
 
 ## Abstract
 ---
@@ -37,6 +37,5 @@
    + Designed the up-layer program based on ROS to control the whole system playing music.
      
    + The video of Erhu playing is linked to [here](https://www.youtube.com/watch?v=88F4DdLKqmE&feature=youtu.be). 
-   
 
-
+## Abstract

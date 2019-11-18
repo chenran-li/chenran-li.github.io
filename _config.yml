@@ -31,12 +31,20 @@ subtitle: Mechanical Engineering
 description: Good
 # Side Menu Links
 menu:
-  - text: Portfolio
+  - text: Home
     link: /
     icon: ""
-
-  - text: Skills & Offers
+    
+  - text: Professional Experience
     link: /skills-and-offers
+    icon: ""
+    
+  - text: Social Activities
+    link: /SocialActivities
+    icon: ""
+    
+  - text: Honors & Awards
+    link: /Honors&Awards
     icon: ""
 
   - text: Contact Me
