@@ -6,7 +6,7 @@
 ## HIT International Communication Association (HICA)
 ---
 
- ![HICA](../HICA.png)
+ ![HICA](https://github.com/chenran-li/chenran-li.github.io/blob/master/Image/HICA.png)
 
 ### Introduction
 
