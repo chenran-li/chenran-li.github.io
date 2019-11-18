@@ -3,13 +3,14 @@
 
 # Social Activities
 
-## HIT International Communication Association (HICA)
+## HIT International Communication Association <img src="https://raw.githubusercontent.com/chenran-li/chenran-li.github.io/master/Image/HICA.png" alt="HICA" title="HICA" width="50" height="20" />
 ---
-<img src="https://raw.githubusercontent.com/chenran-li/chenran-li.github.io/master/Image/HICA.png" width = "100" height = "100" div align=right />
 
-### Introduction
+### Introduction 
 
 + HICA is an official student organization in Harbin Institute of Technology, authorized for the management of international communications of students. With 5 departments 4 professional offices, over 200 active members and an annual budget of more than $150,000, it is also the largest student organization inside HIT. 
+ 
+ <img src="https://raw.githubusercontent.com/chenran-li/chenran-li.github.io/master/Image/10year.jpeg" alt="HICA" title="HICA" width="100" height="100" />
 
 + Lecture department is the biggest department in HICA with over 50 active members, which are mainly responsible to organize different kinds of lecture delivered by foreign scholars and statesmen, receive visiting professors and hold HIT BP debate competition.
 
