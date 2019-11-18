@@ -11,10 +11,14 @@
 + HICA is an official student organization in Harbin Institute of Technology, authorized for the management of international communications of students. With 5 departments 4 professional offices, over 200 active members and an annual budget of more than $150,000, it is also the largest student organization inside HIT. 
 
  <div style="text-align: center;">
- <img src="https://raw.githubusercontent.com/chenran-li/chenran-li.github.io/master/Image/10year.jpeg" alt="HICA" title="HICA" width="620" height="400"  />
+ <img src="https://raw.githubusercontent.com/chenran-li/chenran-li.github.io/master/Image/10year.jpeg" alt="HICA" title="HICA" width="620" height="350"  />
 </div>
 
 + Lecture department is the biggest department in HICA with over 50 active members, which are mainly responsible to organize different kinds of lecture delivered by foreign scholars and statesmen, receive visiting professors and hold HIT BP debate competition.
+
+<div style="text-align: center;">
+ <img src="https://raw.githubusercontent.com/chenran-li/chenran-li.github.io/master/Image/Lecture.jpeg" alt="HICA" title="HICA" width="620" height="400"  />
+</div>
 
 ### Position
 
@@ -34,11 +38,21 @@
 
 + Founded the HIT English Debate team with HIT foreign language college. Have gotten HIT official recognition and will represent HIT to participate in nearly all kinds of English debate competition.
 
+ <div style="text-align: center;">
+ <img src="https://raw.githubusercontent.com/chenran-li/chenran-li.github.io/master/Image/BPD.jpeg" alt="HICA" title="HICA" width="320" height="200"  />
+  <img src="https://raw.githubusercontent.com/chenran-li/chenran-li.github.io/master/Image/As.jpg" alt="HICA" title="HICA" width="260" height="200"  />
+</div>
+
 + Be in charge of “Hello, Harbin”2017 ASRTU Winter Youth Festival’s reception dinner: 3 hours long reception dinner involved more than 100 students coming from those 32 Russian universities. 
 
 + Be in charge of 2018 ASRTU Sino-Russian Micro/Nanosat Student camp’s Sino-Russian astronaut dialogue lecture delivered by Russian astronaut Pavel Vinogradov and Chinese astronaut Liu Boming with nearly 50 reporters and 150 Sino-Russian students involved.
 
 + Be in charge of 2018 HIT International Week, a one-week festival with 10 lectures, 3 big activities and 180 meters long display board surrounding two campus. Attracted more than 3000 participants. 
+
+ <div style="text-align: center;">
+ <img src="https://raw.githubusercontent.com/chenran-li/chenran-li.github.io/master/Image/InternationalWeek.png" alt="HICA" title="HICA" width="320" height="200"  />
+  <img src="https://raw.githubusercontent.com/chenran-li/chenran-li.github.io/master/Image/international.png" alt="HICA" title="HICA" width="260" height="200"  />
+</div>
 
 ## Psychological Committee of School of Mechatronics Engineering
 ---
