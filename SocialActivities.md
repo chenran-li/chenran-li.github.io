@@ -77,3 +77,7 @@
 ### Main Contribution
 
 + Designed and be in charge of the construction of psychological sandbox centers, a special room in the dorm with two sandboxes and hundreds of sandboxes toys. Students in school of ME can come to this room to play it and get guidance from psychological counselors. In the first years, we have received 300 students’ consultation and experience.
+
+<div style="text-align: center;">
+<img src="https://raw.githubusercontent.com/chenran-li/chenran-li.github.io/master/Image/Ph.JPG" alt="HICA" title="HICA" width="500" height="1000"  />
+</div>
