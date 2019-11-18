@@ -32,7 +32,7 @@ description: Good
 # Side Menu Links
 menu:
   - text: Home
-    link: /
+    link: /index
     icon: ""
     
   - text: Professional Experience
