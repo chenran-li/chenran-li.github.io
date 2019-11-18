@@ -5,8 +5,7 @@
 
 ## HIT International Communication Association (HICA)
 ---
-
- ![HICA](https://github.com/chenran-li/chenran-li.github.io/blob/master/Image/HICA.png)
+<img src="https://raw.githubusercontent.com/chenran-li/chenran-li.github.io/master/Image/HICA.png" width = "100" height = "100" div align=right />
 
 ### Introduction
 
