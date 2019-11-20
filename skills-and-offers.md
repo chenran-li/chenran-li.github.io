@@ -3,8 +3,6 @@
 
 # Professional Experience
 
-## Abstract
----
 
 + ### Non-Conservatively Defensive Strategy with Searching Based Motion Planner for On-Road Autonomous Driving (*May/2019 - Nov/2019*)
 #### *Advised by Prof. Masayoshi Tomizuka, Mechanical Systems Control Lab, University of California, Berkeley*
