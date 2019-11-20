@@ -12,8 +12,8 @@ Hi! Weclome to my homepage!
 
 ## Who am I ?
 
-### I am a senior student major in Mechatronics Engineering in Harbin Institute of Technology. 
+### I am a senior student major in Mechatronics Engineering in Harbin Institute of Technology and obtained the 4-th place in my major among 126 students (5-th place in my college among more than 350 students). I worked as a research assistant in U.C.Berkeley [MSC Lab](https://msc.berkeley.edu/) focusing on motion planner for autonomous driving.
 
-<div style="text-align: left;">
+<div style="text-align: center;">
 <img src="https://raw.githubusercontent.com/chenran-li/chenran-li.github.io/master/Image/IMG_4819.JPG" alt="It's me! Handsome, right?" title="It's me! Handsome, right?" width="504" height="378"  />
 </div>
