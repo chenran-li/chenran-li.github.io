@@ -19,9 +19,15 @@ I am a senior student major in Mechatronics Engineering in Harbin Institute of T
 </div>
 
 ## Educational Background
+---
 + Harbin Institute of Technology (Harbin, CHINA)
+
     + B.E. in Mechatronics Engineering                                                                                  *Aug.2016 – Jul.2020(expected)*
+    
     + Average Score: 94.37/100; Ranking: 4/126
+    
 + University of California, Berkeley (California, US)
+
     + Academic Exchange Program & Research Assistant                                                     *Jan.2019 – May.2020(expected)*
+    
     + GPA: 4.0/4.0 (all A+)
